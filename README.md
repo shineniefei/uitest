@@ -1,0 +1,2 @@
+# uitest
+ui auto test
